@@ -1,0 +1,14 @@
+footer{
+    background-color:white;
+    /*height: 50%;*/
+    width: 100%;
+    display: flex;
+    text-align: center;
+    bottom: 0;
+    border-top: 1px solid #CCCCCC;
+    justify-content: center;
+    background-color: burlywood;
+    
+    position: fixed;
+ 
+}
